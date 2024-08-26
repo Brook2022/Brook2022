@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Brook Alemayehu's Business Intelligence Analytics portfolio
 
-Hello I'm Brook Alemayehu, a passionate Business Analyst. Welcome to my Github portfolio where I share my projects, achievements, and insights from my professional journey.
+Hello, I'm Brook Alemayehu, a passionate Business Analyst. Welcome to my Github portfolio where I share my projects, achievements, and insights from my professional journey.
 
 ## About me
 
