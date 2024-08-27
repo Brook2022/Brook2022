@@ -42,8 +42,8 @@ Conducted customer analysis segmentation to evaluate business performance and op
 
 ### Zuber Database (05/2024)
 Investigated passenger preferences and the impact of external factors on ride-sharing data.
-- Employed SQL for exploratory data analysis, uncovering significant insights into passenger behavior.
-- Analyzed variations in ride durations along identical routes in Chicago, assessing the impact of different weather conditions on travel time.
+- Identified Flash Cab as the top-performing taxi company during the specified period, followed by Taxi Affiliation services. This insight can help Zuber understand the competitive landscape and prioritize partnership or marketing efforts. 
+- Classified weather conditions as “Good” or “Bad,” and determined that adverse weather conditions such as rain or storms influence ride durations especially for trips from the Loop to O’Hare. This information can be crucial for optimizing ride pricing and service availability.
 
 ## Experience
 
